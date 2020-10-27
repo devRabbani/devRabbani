@@ -1,6 +1,6 @@
 ### Hi there , Rabbani is here 👋
 
-- 🔭 I’m currently working on -- Voicy
+- 🔭 I’m currently working on -- CanWeBe!
 - 🌱 I’m currently learning -- ML and AI
 - 👯 I’m looking to collaborate on -- Full Stack
 - 🤔 I’m looking for help with -- Project mate
