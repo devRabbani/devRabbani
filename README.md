@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on -- CanWeBe!
 - 🌱 I’m currently learning -- ML and AI
-- 👯 I’m looking to collaborate on -- Innovative Ideas
+- 👯 I’m looking to collaborate on -- Innovative Startup Ideas 
 - 🤔 I’m looking for help with -- Anyone
-- 💬 Ask me about -- Nothing
+- 💬 Ask me about -- Fullstack Developmebt ( PWA, React, Firbase, etc ) 
 - 📫 How to reach me: -- dev.golamrabbani@gmail.com
-- ⚡ Fun fact: -- SRKian and MSDian
+- ⚡ Fun fact: -- Coffe Addict, SRKian and MSDian
 
 ![Metrics](https://github.com/devRabbani/devRabbani/blob/main/github-metrics.svg)
 
