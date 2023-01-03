@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    920k added, 228k removed
+                                    950k added, 227k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.27251420299885" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="232.27251420299885" y="0" width="141.1336497323292" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="373.4061639353281" y="0" width="65.05912137962493" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="438.465285314953" y="0" width="9.887189737394946" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="448.352475052348" y="0" width="5.334253266661088" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.6867283190091" y="0" width="3.9366346256333618" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.62336294464245" y="0" width="2.043443927809684" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.6668068724521" y="0" width="0.33319312754791547" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.29808909898296" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="232.29808909898296" y="0" width="141.1177997421573" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.4158888411402" y="0" width="65.05181492622835" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="438.46770376736856" y="0" width="9.88607935825813" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="448.3537831256267" y="0" width="5.333654204268729" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.68743732989543" y="0" width="3.936192522561238" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.62362985245665" y="0" width="2.043214439192093" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.6668442916488" y="0" width="0.3331557083512391" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -347,6 +347,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a56cbcd</div>
+                                        <div class="message">Adding persistand dark mode</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">devRabbani/KeepKaro---A-keeper-for-your-notes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7a7a066</div>
                                         <div class="message">fix shar error and manifest</div>
                                     </div>
@@ -413,32 +433,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">devRabbani/KeepKaro---A-keeper-for-your-notes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#15053ad</div>
-                                        <div class="message">Changing manifest 1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2023, 22:44:59 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 3 Jan 2023, 23:49:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
