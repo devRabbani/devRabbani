@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1600" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1017" class="">
     <defs>
         <style/>
     </defs>
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1886 Commits
+                            1890 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    954k added, 237k removed
+                                    900k added, 268k removed
                                 </div>
                             </section>
                             <section>
@@ -340,6 +340,58 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">canwebe/CanWeBe-V2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5372794</div>
+                                        <div class="message">Merge branch 'develop'</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">canwebe/CanWeBe-V2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5b4d7e1</div>
+                                        <div class="message">🐛 FIX: new sitemap, head Component for seo, removed  gfont link and removed some unused images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f55956</div>
+                                        <div class="message">Merge branch 'master' into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c1f534</div>
+                                        <div class="message">Fixing OG Imaage issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bcb3f1</div>
+                                        <div class="message">Adding console.log of CWB to useEffect</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">canwebe/CanWeBe-V2</span>
                                     </div>
@@ -393,326 +445,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">devRabbani/CatBreeds</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0e5cdc6</div>
-                                        <div class="message">Merge pull request #27 from canwebe/DogApi
-
-Dog api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35676ff</div>
-                                        <div class="message">fixed the dog url</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ab03a3</div>
-                                        <div class="message">Bump eventsource from 1.1.0 to 1.1.1
-
-Bumps [eventsource](https://github.com/EventSource/eventsource) from 1.1.0 to 1.1.1.
-- [Release notes](https://github.com/EventSource/eventsource/releases)
-- [Changelog](https://github.com/EventSource/eventsource/blob/master/HISTORY.md)
-- [Commits](https://github.com/EventSource/eventsource/compare/v1.1.0...v1.1.1)
-
----
-updated-dependencies:
-- dependency-name: eventsource
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9deb17</div>
-                                        <div class="message">updated version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#735d2e2</div>
-                                        <div class="message">Merge branch 'AddingDogApi' into newbranch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecd25eb</div>
-                                        <div class="message">Merge pull request #23 from canwebe/dependabot/npm_and_yarn/nanoid-3.3.3
-
-Bump nanoid from 3.1.30 to 3.3.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f643d4</div>
-                                        <div class="message">Bump nanoid from 3.1.30 to 3.3.3
-
-Bumps [nanoid](https://github.com/ai/nanoid) from 3.1.30 to 3.3.3.
-- [Release notes](https://github.com/ai/nanoid/releases)
-- [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ai/nanoid/compare/3.1.30...3.3.3)
-
----
-updated-dependencies:
-- dependency-name: nanoid
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f94a1af</div>
-                                        <div class="message">Merge pull request #17 from canwebe/dependabot/npm_and_yarn/follow-redirects-1.14.8
-
-Bump follow-redirects from 1.14.4 to 1.14.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3a3840</div>
-                                        <div class="message">Merge pull request #19 from canwebe/dependabot/npm_and_yarn/url-parse-1.5.10
-
-Bump url-parse from 1.5.3 to 1.5.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56902f4</div>
-                                        <div class="message">Merge pull request #20 from canwebe/dependabot/npm_and_yarn/minimist-1.2.6
-
-Bump minimist from 1.2.5 to 1.2.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64b4eb7</div>
-                                        <div class="message">Merge pull request #21 from canwebe/dependabot/npm_and_yarn/async-2.6.4
-
-Bump async from 2.6.3 to 2.6.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f8dd23</div>
-                                        <div class="message">added dog api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca5e0c1</div>
-                                        <div class="message">Bump async from 2.6.3 to 2.6.4
-
-Bumps [async](https://github.com/caolan/async) from 2.6.3 to 2.6.4.
-- [Release notes](https://github.com/caolan/async/releases)
-- [Changelog](https://github.com/caolan/async/blob/v2.6.4/CHANGELOG.md)
-- [Commits](https://github.com/caolan/async/compare/v2.6.3...v2.6.4)
-
----
-updated-dependencies:
-- dependency-name: async
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#508b33e</div>
-                                        <div class="message">Bump minimist from 1.2.5 to 1.2.6
-
-Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
-- [Release notes](https://github.com/substack/minimist/releases)
-- [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
-
----
-updated-dependencies:
-- dependency-name: minimist
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84615cf</div>
-                                        <div class="message">Bump url-parse from 1.5.3 to 1.5.10
-
-Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.3 to 1.5.10.
-- [Release notes](https://github.com/unshiftio/url-parse/releases)
-- [Commits](https://github.com/unshiftio/url-parse/compare/1.5.3...1.5.10)
-
----
-updated-dependencies:
-- dependency-name: url-parse
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afa9236</div>
-                                        <div class="message">Bump follow-redirects from 1.14.4 to 1.14.8
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.4 to 1.14.8.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.4...v1.14.8)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca52712</div>
-                                        <div class="message">Merge pull request #15 from MOHD-STREAM/master
-
-Descriptive Readme.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff5cbbd</div>
-                                        <div class="message">Merge pull request #16 from canwebe/givingtag
-
-Editing index.html for ex fixed #11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e2d220</div>
-                                        <div class="message">Editing index.html for ex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f4badd</div>
-                                        <div class="message">Descriptive Readme.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 31 commits in
-                                        <span class="repo">devRabbani/astrodata</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50e0aea</div>
-                                        <div class="message">Media query done</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36fc04c</div>
-                                        <div class="message">Added netlify.toml and remove all log</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71491b2</div>
-                                        <div class="message">Added intersection observer and infinite scrolling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16c101c</div>
-                                        <div class="message">Added trackScroll</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b1514e</div>
-                                        <div class="message">added audio and video component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81d41ad</div>
-                                        <div class="message">Added new lazyloading image components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2616615</div>
-                                        <div class="message">Added new search page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#412f3b0</div>
-                                        <div class="message">fixed some style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b5ce39</div>
-                                        <div class="message">added back and reset button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81f8de4</div>
-                                        <div class="message">added lazyloading images</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f98e91</div>
-                                        <div class="message">Fixed some logic,added styles,removed extra code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e54fd8b</div>
-                                        <div class="message">Create codeql-analysis.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b12d5c</div>
-                                        <div class="message">Merge pull request #8 from canwebe/dependabot/npm_and_yarn/nanoid-3.2.0
-
-Bump nanoid from 3.1.25 to 3.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92d21d2</div>
-                                        <div class="message">Merge pull request #9 from canwebe/dependabot/npm_and_yarn/follow-redirects-1.14.7
-
-Bump follow-redirects from 1.14.4 to 1.14.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62bf43c</div>
-                                        <div class="message">Bump follow-redirects from 1.14.4 to 1.14.7
-
-Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.4 to 1.14.7.
-- [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
-- [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.4...v1.14.7)
-
----
-updated-dependencies:
-- dependency-name: follow-redirects
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5820c9a</div>
-                                        <div class="message">Bump nanoid from 3.1.25 to 3.2.0
-
-Bumps [nanoid](https://github.com/ai/nanoid) from 3.1.25 to 3.2.0.
-- [Release notes](https://github.com/ai/nanoid/releases)
-- [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ai/nanoid/compare/3.1.25...3.2.0)
-
----
-updated-dependencies:
-- dependency-name: nanoid
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26bd830</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#629495f</div>
-                                        <div class="message">Editing readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ba5396</div>
-                                        <div class="message">Merge pull request #7 from canwebe/addingStyle
-
-modified mars section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c8de36</div>
-                                        <div class="message">modified mars section</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2023, 19:46:18 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Feb 2023, 20:48:32 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
