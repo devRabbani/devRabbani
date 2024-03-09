@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1008" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="964" class="">
     <defs>
         <style/>
     </defs>
@@ -44,7 +44,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            277 issue comments
+                            278 issue comments
                         </div>
                     </section>
                 </div>
@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    943k added, 217k removed
+                                    560k added, 87.8k removed
                                 </div>
                             </section>
                             <section>
@@ -337,12 +337,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#349 [BUG]: Get all env variables from both app and compare with vercel</span>
+                                        <span class="issue">#374 refactor(env-file): removed unused envs and moved some variables to constants</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by devRabbani in <span class="repo">startuphirehq/startuphire-turbo</span></div>
-                                    <div class="comment">Waiting for #372</div>
+                                    <div>opened by sobitp59 in <span class="repo">startuphirehq/startuphire-turbo</span></div>
+                                    <div class="comment">LGTM</div>
                                 </div>
                             </section>
                         </div>
@@ -350,16 +350,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#365 Change the content area of job page</span>
+                                        Commented on
+                                        <span class="issue">#374 refactor(env-file): removed unused envs and moved some variables to constants</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">startuphirehq/startuphire-turbo</span></div>
+                                    <div>opened by sobitp59 in <span class="repo">startuphirehq/startuphire-turbo</span></div>
+                                    <div class="comment">Two env.mjs files are there @sobitp59</div>
                                 </div>
                             </section>
                         </div>
@@ -372,7 +372,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">enhance/jobs-page</span>
+                                        <span class="code">fix/seeker-profile-image</span>
                                         in
                                         <span class="repo">startuphirehq/startuphire-turbo</span>
                                     </div>
@@ -386,49 +386,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">startuphirehq/startuphire-turbo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c198399</div>
-                                        <div class="message">Merge pull request #370 from startuphirehq/enhance/jobs-page
+                                        <div class="sha">#30550eb</div>
+                                        <div class="message">Merge pull request #373 from startuphirehq/fix/seeker-profile-image
 
-Enhance/jobs page</div>
+fix(apps/jobseeker/components/profile/avatar.tsx): profile pic made r…</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f26f1f7</div>
-                                        <div class="message">fix: clear filter ran on the first refresh fixes
-
-#365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cafc16</div>
-                                        <div class="message">fix: create separate layout for job details modal
-
-#365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#77b32a0</div>
-                                        <div class="message">fix: visual Hierarchy and responsiveness fixes in the job details component
-
-#365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#175ab89</div>
-                                        <div class="message">fix: save job UX issue
-
-The button status was not updating after saving the job
-
-#365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84b34af</div>
-                                        <div class="message">refactor: jobDetail component refactor
-
-#365</div>
+                                        <div class="sha">#6bccbd9</div>
+                                        <div class="message">fix(apps/jobseeker/components/profile/avatar.tsx): profile pic made round for all image sizes</div>
                                     </div>
                                 </div>
                             </section>
@@ -441,12 +413,12 @@ The button status was not updating after saving the job
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#370 Enhance/jobs page</span>
+                                        <span class="issue">#373 fix(apps/jobseeker/components/profile/avatar.tsx): profile pic made r…</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by developeratul in <span class="repo">startuphirehq/startuphire-turbo</span></div>
-                                    <div>7 files changed <span class="code">++109 --294</span></div>
+                                    <div>opened by hyper-dot in <span class="repo">startuphirehq/startuphire-turbo</span></div>
+                                    <div>1 file changed <span class="code">++22 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -455,7 +427,7 @@ The button status was not updating after saving the job
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2024, 22:43:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2024, 23:47:11 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
