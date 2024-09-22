@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="851" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="901" class="">
     <defs>
         <style/>
     </defs>
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3065 Commits
+                            3067 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.02m added, 280k removed
+                                    1.08m added, 300k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.97290321323865" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="168.97290321323865" y="0" width="163.3887346716146" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="332.3616378848532" y="0" width="90.18767105942398" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="422.5493089442772" y="0" width="28.441691260263564" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.9910002045408" y="0" width="4.201287633073274" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="455.19228783761406" y="0" width="2.266643290574565" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.4589311281886" y="0" width="1.672763930689887" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.1316950588785" y="0" width="0.8683049411214679" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.8644507651169" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="167.8644507651169" y="0" width="165.33982860645622" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="333.20427937157314" y="0" width="89.59070393465893" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="422.79498330623204" y="0" width="28.25511541463004" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.05009872086214" y="0" width="4.173727429788688" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="455.2238261506508" y="0" width="2.251774242007142" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.47560039265795" y="0" width="1.661790696290505" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.13739108894845" y="0" width="0.8626089110515598" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -343,6 +343,30 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#8721dfd</div>
+                                        <div class="message">add aditional features header,color mode select and alignment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3db74dc</div>
+                                        <div class="message">add advanced section</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">devRabbani/bannerdoc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#654e1dc</div>
                                         <div class="message">add banner generation logic v2</div>
                                     </div>
@@ -399,26 +423,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">devRabbani/banner-generator</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2024, 12:46:15 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 13:51:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
