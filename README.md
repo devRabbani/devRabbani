@@ -7,3 +7,9 @@
 - ⚡ Fun fact: -- Coffee Addict, SRKian and MSDian
 - ➡️ Checkout my Card  [Visiting Card](https://vglink.canwebe.in/p/devrabbani)
 
+## Latest Projects (In Order)
+- UpDASH
+- [BannerDoc](https://bannerdoc.vercel.app)
+- [ZenDB](https://zendb.vercel.app)
+- [VGLink](https://vglink.canwebe.in)
+- [VibeLog](https://vibelog.canwebe.in)
