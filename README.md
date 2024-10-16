@@ -9,6 +9,7 @@
 
 ## Latest Projects (In Order)
 - UpDASH
+- [WallPal](https://wallpal.vercel.app)
 - [BannerDoc](https://bannerdoc.vercel.app)
 - [ZenDB](https://zendb.vercel.app)
 - [VGLink](https://vglink.canwebe.in)
