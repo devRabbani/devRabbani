@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1251" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
     <defs>
         <style/>
     </defs>
@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.01m added, 270k removed
+                                    892k added, 257k removed
                                 </div>
                             </section>
                             <section>
@@ -343,6 +343,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">auth-and-misc-v2</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a18cc4b</div>
+                                        <div class="message">style(signin): add some more theme and fix some styles</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">by14/content-automation</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">auth-and-misc-v2</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c802edc</div>
                                         <div class="message">feat(sigin): add signin form and ui (part1)</div>
                                     </div>
@@ -405,108 +425,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 28 commits in
-                                        <span class="repo">by14/content-automation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50f3d54</div>
-                                        <div class="message">initial tests fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9da4a77</div>
-                                        <div class="message">initial model migration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b98d40f</div>
-                                        <div class="message">update model ids to int</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06a302a</div>
-                                        <div class="message">fix skipping models.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a828a6</div>
-                                        <div class="message">fix enums</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88355bb</div>
-                                        <div class="message">make formmating and fix not conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fcd284</div>
-                                        <div class="message">format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#909fe4a</div>
-                                        <div class="message">remove unneeded folder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e50f6b</div>
-                                        <div class="message">fix models, add arbitrary types allowed for now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#717983b</div>
-                                        <div class="message">fix formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc7e47e</div>
-                                        <div class="message">remove unneeded mds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfd3c6d</div>
-                                        <div class="message">format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cb9ca0</div>
-                                        <div class="message">update to support sqlmodel</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35fea31</div>
-                                        <div class="message">bump dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf9e6ac</div>
-                                        <div class="message">get rid of migrations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85128ce</div>
-                                        <div class="message">fix tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4c7c09</div>
-                                        <div class="message">fix db</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#319f8a7</div>
-                                        <div class="message">add test container</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2f465e</div>
-                                        <div class="message">remove unneeded tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb7e341</div>
-                                        <div class="message">init</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2024, 00:43:55 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2024, 01:48:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
