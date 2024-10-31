@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1534" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1184" class="">
     <defs>
         <style/>
     </defs>
@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    226k added, 65.7k removed
+                                    289k added, 70.5k removed
                                 </div>
                             </section>
                             <section>
@@ -336,6 +336,22 @@
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">backup-31-oct</span>
+                                        in
+                                        <span class="repo">by14/content-automation</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
                                         Deleted
                       branch
                                         <span class="code">landing-page</span>
@@ -474,108 +490,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">by14/content-automation</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cf2440a</div>
-                                        <div class="message">style(pricing-page): add responsive code for pricing page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ea6996</div>
-                                        <div class="message">style(footer): add footer responsive code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#194e59a</div>
-                                        <div class="message">style(testimony and faq): add responsive code for testimony and faq</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5093d6</div>
-                                        <div class="message">style(integration and pricing): add responsive code for integration and pricing section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#256a290</div>
-                                        <div class="message">style(bento-grid): add responsive code for bento-grid</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75001c4</div>
-                                        <div class="message">style(trusted-by and features): add responsive code for trusted-by and features section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4211798</div>
-                                        <div class="message">style(hero and hero-demo): add responsive code for hero and hero-demo section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#697ba74</div>
-                                        <div class="message">style(header-responsive): add responsive code for header</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47d72cf</div>
-                                        <div class="message">style(nav): improve nav</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2717674</div>
-                                        <div class="message">feat(pricing): add pricing page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51c080c</div>
-                                        <div class="message">feat(blogs): add final blogs page code and improve layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f98acc</div>
-                                        <div class="message">feat(blogs): add blogs page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4a2fd8</div>
-                                        <div class="message">feat(landing-page): add all landing page sections</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7c583b</div>
-                                        <div class="message">chore(merging develop): merge latest develop and fix conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a18cc4b</div>
-                                        <div class="message">style(signin): add some more theme and fix some styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c802edc</div>
-                                        <div class="message">feat(sigin): add signin form and ui (part1)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8a7b74</div>
-                                        <div class="message">refactor(theme): add theme toggle comp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f07fb3</div>
-                                        <div class="message">refactor(ui): remove daisyui and add shadecnui, setup shadecn custom theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a93dc8c</div>
-                                        <div class="message">refactor: merge latest develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd8c78b</div>
-                                        <div class="message">fix(auth-bug): add a workaround for edge runtime issue</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2024, 20:51:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2024, 21:54:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
