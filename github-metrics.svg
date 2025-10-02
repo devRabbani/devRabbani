@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1292" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1275" class="">
     <defs>
         <style/>
     </defs>
@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    552k added, 196k removed
+                                    241k added, 70.7k removed
                                 </div>
                             </section>
                             <section>
@@ -332,111 +332,89 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">by14/fortune-ai</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rabbani/ui-updates</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#62e9361</div>
-                                        <div class="message">refactor: fix some desktop nav layout issues and add active path style</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
+                                        Pushed 19 commits in
                                         <span class="repo">by14/fortune-ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4647a8d</div>
-                                        <div class="message">refactor: swap pricing gradient animation for static layers</div>
+                                        <div class="sha">#6758709</div>
+                                        <div class="message">Merge pull request #93 from by14/rabbani/ui-updates
+
+Rabbani/UI updates</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#57fc0ee</div>
-                                        <div class="message">fix(marketing): refine hero modalities gradients</div>
+                                        <div class="sha">#707465b</div>
+                                        <div class="message">feat(hero): make ctas mobile friendly</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2d56a47</div>
-                                        <div class="message">feat(marketing): add progress loader to hero modalities</div>
+                                        <div class="sha">#0a17a91</div>
+                                        <div class="message">refactor: improve the header and terms page (residue)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#86fdcb4</div>
-                                        <div class="message">style: remove extra functions and unwanted codes &amp; add timer based carousal effect</div>
+                                        <div class="sha">#62e9361</div>
+                                        <div class="message">refactor: fix some desktop nav layout issues and add active path style</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#02e27e6</div>
-                                        <div class="message">refactor(hero): extract deepening highlights section</div>
+                                        <div class="sha">#3ebd058</div>
+                                        <div class="message">fix: fix the high padding spacing for mobile screens and fix footer responsiveness</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4a23856</div>
-                                        <div class="message">refactor(hero): isolate modalities panel interactions</div>
+                                        <div class="sha">#4e233ab</div>
+                                        <div class="message">feat(marketing): refresh footer layout and logout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e08f55c</div>
-                                        <div class="message">style: make the momentum content centered</div>
+                                        <div class="sha">#290c70c</div>
+                                        <div class="message">style(about): polish commitments grid layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5da2a4c</div>
-                                        <div class="message">style(landing): add glowing accent to momentum stats</div>
+                                        <div class="sha">#ebf57b1</div>
+                                        <div class="message">feat(about): redesign commitments layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#38650c8</div>
-                                        <div class="message">feat(landing): redesign hero modalities presentation</div>
+                                        <div class="sha">#4eaed07</div>
+                                        <div class="message">style(about): smooth council section gradient</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c8d9b2f</div>
-                                        <div class="message">feat(marketing): refresh hero badge shimmer</div>
+                                        <div class="sha">#bd5301f</div>
+                                        <div class="message">style: impeove the design of meet council section with UI and effects</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#67d69a5</div>
-                                        <div class="message">feat(marketing): overlap hero spotlight card</div>
+                                        <div class="sha">#a2264bd</div>
+                                        <div class="message">fix: fix the responsive style of hero-about section and data-flow-grid</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e82485a</div>
-                                        <div class="message">style(marketing): refine hero momentum glass cards</div>
+                                        <div class="sha">#7814a78</div>
+                                        <div class="message">refactor(about): extract delivery flow grid component</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d5eedea</div>
-                                        <div class="message">feat(marketing): polish FAQ layout and support badge</div>
+                                        <div class="sha">#b38858c</div>
+                                        <div class="message">style(about): polish delivery flow hover and copy</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eaeb418</div>
-                                        <div class="message">feat(marketing): enrich FAQ experience and layout</div>
+                                        <div class="sha">#679f585</div>
+                                        <div class="message">style(about): frame delivery flow like bottom cta</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#34eeff4</div>
-                                        <div class="message">feat: add hero momentum stats section</div>
+                                        <div class="sha">#d8c1997</div>
+                                        <div class="message">style(about): flatten delivery flow into dashed grid</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4591c27</div>
-                                        <div class="message">docs: note conventional commit requirement</div>
+                                        <div class="sha">#0ffe8be</div>
+                                        <div class="message">style(about): align hero spacing with landing page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#49264de</div>
-                                        <div class="message">Clarify conservative UI testing guidance</div>
+                                        <div class="sha">#d3bdaa9</div>
+                                        <div class="message">feat(about): refresh hero layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ef541ea</div>
-                                        <div class="message">Align tarot spread tests with accessible layout</div>
+                                        <div class="sha">#95f303e</div>
+                                        <div class="message">feat(about): redesign mission section layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8fffb63</div>
-                                        <div class="message">Adjust hero headline sizing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#063e27e</div>
-                                        <div class="message">chore: pause hero title sheen animation</div>
+                                        <div class="sha">#84f99f9</div>
+                                        <div class="message">refactor: add blleding edge fadding effect design for bottom cta section</div>
                                     </div>
                                 </div>
                             </section>
@@ -449,12 +427,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#92 Rabbani/UI updates</span>
+                                        <span class="issue">#93 Rabbani/UI updates</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">by14/fortune-ai</span></div>
-                                    <div>13 files changed <span class="code">++1202 --606</span></div>
+                                    <div>19 files changed <span class="code">++995 --345</span></div>
                                 </div>
                             </section>
                         </div>
@@ -466,12 +444,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#92 Rabbani/UI updates</span>
+                                        <span class="issue">#93 Rabbani/UI updates</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">by14/fortune-ai</span></div>
-                                    <div>13 files changed <span class="code">++1202 --606</span></div>
+                                    <div>19 files changed <span class="code">++995 --345</span></div>
                                 </div>
                             </section>
                         </div>
@@ -489,12 +467,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">rabbani/ui-updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a7069b</div>
-                                        <div class="message">feat(marketing): polish bottom cta responsive layout</div>
+                                        <div class="sha">#707465b</div>
+                                        <div class="message">feat(hero): make ctas mobile friendly</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bc8eaf2</div>
-                                        <div class="message">feat(marketing): refine bottom cta section</div>
+                                        <div class="sha">#0a17a91</div>
+                                        <div class="message">refactor: improve the header and terms page (residue)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">by14/fortune-ai</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rabbani/ui-updates</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#62e9361</div>
+                                        <div class="message">refactor: fix some desktop nav layout issues and add active path style</div>
                                     </div>
                                 </div>
                             </section>
@@ -504,7 +502,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2025, 01:52:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2025, 02:47:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
