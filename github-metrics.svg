@@ -88,7 +88,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    125k added, 58.1k removed
+                                    234k added, 95k removed
                                 </div>
                             </section>
                             <section>
@@ -332,6 +332,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">by14/fortune-ai</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rabbani/ui-updates</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dc96b99</div>
+                                        <div class="message">feat(marketing): redesign landing bottom CTA</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cadc35</div>
+                                        <div class="message">style: make consitent spacing of badge and gradient coloring of FAQ</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">by14/fortune-ai</span>
                                     </div>
@@ -421,262 +445,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">by14/fortune-ai</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#58d4205</div>
-                                        <div class="message">Merge pull request #91 from by14/dependabot/npm_and_yarn/npm-deps-440bf6fd22
-
-chore: bump the npm-deps group with 20 updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e045f63</div>
-                                        <div class="message">chore: bump the npm-deps group with 20 updates
-
-Bumps the npm-deps group with 20 updates:
-
-| Package | From | To |
-| --- | --- | --- |
-| [@aws-sdk/client-s3](https://github.com/aws/aws-sdk-js-v3/tree/HEAD/clients/client-s3) | `3.896.0` | `3.899.0` |
-| [@neondatabase/serverless](https://github.com/neondatabase/serverless) | `1.0.1` | `1.0.2` |
-| [@prisma/client](https://github.com/prisma/prisma/tree/HEAD/packages/client) | `6.16.2` | `6.16.3` |
-| [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) | `9.0.0-alpha.8` | `9.3.0` |
-| [better-auth](https://github.com/better-auth/better-auth/tree/HEAD/packages/better-auth) | `1.3.22` | `1.3.24` |
-| [posthog-js](https://github.com/PostHog/posthog-js) | `1.268.6` | `1.268.9` |
-| [@lingual/i18n-check](https://github.com/lingualdev/i18n-check) | `0.8.7` | `0.8.8` |
-| [@storybook/addon-a11y](https://github.com/storybookjs/storybook/tree/HEAD/code/addons/a11y) | `9.1.8` | `9.1.9` |
-| [@storybook/addon-docs](https://github.com/storybookjs/storybook/tree/HEAD/code/addons/docs) | `9.1.8` | `9.1.9` |
-| [@storybook/addon-vitest](https://github.com/storybookjs/storybook/tree/HEAD/code/addons/vitest) | `9.1.8` | `9.1.9` |
-| [@storybook/nextjs-vite](https://github.com/storybookjs/storybook/tree/HEAD/code/frameworks/nextjs) | `9.1.8` | `9.1.9` |
-| [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) | `6.8.0` | `6.9.0` |
-| [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) | `24.5.2` | `24.6.1` |
-| [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) | `19.1.15` | `19.1.16` |
-| [cross-env](https://github.com/kentcdodds/cross-env) | `10.0.0` | `10.1.0` |
-| [eslint-plugin-storybook](https://github.com/storybookjs/storybook/tree/HEAD/code/lib/eslint-plugin) | `9.1.8` | `9.1.9` |
-| [lefthook](https://github.com/evilmartians/lefthook) | `1.13.4` | `1.13.6` |
-| [prisma](https://github.com/prisma/prisma/tree/HEAD/packages/cli) | `6.16.2` | `6.16.3` |
-| [storybook](https://github.com/storybookjs/storybook/tree/HEAD/code/core) | `9.1.8` | `9.1.9` |
-| [typescript](https://github.com/microsoft/TypeScript) | `5.9.2` | `5.9.3` |
-
-
-Updates `@aws-sdk/client-s3` from 3.896.0 to 3.899.0
-- [Release notes](https://github.com/aws/aws-sdk-js-v3/releases)
-- [Changelog](https://github.com/aws/aws-sdk-js-v3/blob/main/clients/client-s3/CHANGELOG.md)
-- [Commits](https://github.com/aws/aws-sdk-js-v3/commits/v3.899.0/clients/client-s3)
-
-Updates `@neondatabase/serverless` from 1.0.1 to 1.0.2
-- [Changelog](https://github.com/neondatabase/serverless/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/neondatabase/serverless/compare/v1.0.1...v1.0.2)
-
-Updates `@prisma/client` from 6.16.2 to 6.16.3
-- [Release notes](https://github.com/prisma/prisma/releases)
-- [Commits](https://github.com/prisma/prisma/commits/6.16.3/packages/client)
-
-Updates `@react-three/fiber` from 9.0.0-alpha.8 to 9.3.0
-- [Release notes](https://github.com/pmndrs/react-three-fiber/releases)
-- [Commits](https://github.com/pmndrs/react-three-fiber/commits/v9.3.0)
-
-Updates `better-auth` from 1.3.22 to 1.3.24
-- [Release notes](https://github.com/better-auth/better-auth/releases)
-- [Commits](https://github.com/better-auth/better-auth/commits/v1.3.24/packages/better-auth)
-
-Updates `posthog-js` from 1.268.6 to 1.268.9
-- [Release notes](https://github.com/PostHog/posthog-js/releases)
-- [Changelog](https://github.com/PostHog/posthog-js/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/PostHog/posthog-js/compare/posthog-js@1.268.6...posthog-js@1.268.9)
-
-Updates `@lingual/i18n-check` from 0.8.7 to 0.8.8
-- [Release notes](https://github.com/lingualdev/i18n-check/releases)
-- [Commits](https://github.com/lingualdev/i18n-check/compare/v0.8.7...v0.8.8)
-
-Updates `@storybook/addon-a11y` from 9.1.8 to 9.1.9
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v9.1.9/code/addons/a11y)
-
-Updates `@storybook/addon-docs` from 9.1.8 to 9.1.9
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v9.1.9/code/addons/docs)
-
-Updates `@storybook/addon-vitest` from 9.1.8 to 9.1.9
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v9.1.9/code/addons/vitest)
-
-Updates `@storybook/nextjs-vite` from 9.1.8 to 9.1.9
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v9.1.9/code/frameworks/nextjs)
-
-Updates `@testing-library/jest-dom` from 6.8.0 to 6.9.0
-- [Release notes](https://github.com/testing-library/jest-dom/releases)
-- [Changelog](https://github.com/testing-library/jest-dom/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/testing-library/jest-dom/compare/v6.8.0...v6.9.0)
-
-Updates `@types/node` from 24.5.2 to 24.6.1
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
-
-Updates `@types/react` from 19.1.15 to 19.1.16
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
-
-Updates `cross-env` from 10.0.0 to 10.1.0
-- [Release notes](https://github.com/kentcdodds/cross-env/releases)
-- [Changelog](https://github.com/kentcdodds/cross-env/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/kentcdodds/cross-env/compare/v10.0.0...v10.1.0)
-
-Updates `eslint-plugin-storybook` from 9.1.8 to 9.1.9
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v9.1.9/code/lib/eslint-plugin)
-
-Updates `lefthook` from 1.13.4 to 1.13.6
-- [Release notes](https://github.com/evilmartians/lefthook/releases)
-- [Changelog](https://github.com/evilmartians/lefthook/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/evilmartians/lefthook/compare/v1.13.4...v1.13.6)
-
-Updates `prisma` from 6.16.2 to 6.16.3
-- [Release notes](https://github.com/prisma/prisma/releases)
-- [Commits](https://github.com/prisma/prisma/commits/6.16.3/packages/cli)
-
-Updates `storybook` from 9.1.8 to 9.1.9
-- [Release notes](https://github.com/storybookjs/storybook/releases)
-- [Changelog](https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md)
-- [Commits](https://github.com/storybookjs/storybook/commits/v9.1.9/code/core)
-
-Updates `typescript` from 5.9.2 to 5.9.3
-- [Release notes](https://github.com/microsoft/TypeScript/releases)
-- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release-publish.yml)
-- [Commits](https://github.com/microsoft/TypeScript/compare/v5.9.2...v5.9.3)
-
----
-updated-dependencies:
-- dependency-name: "@aws-sdk/client-s3"
-  dependency-version: 3.899.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: npm-deps
-- dependency-name: "@neondatabase/serverless"
-  dependency-version: 1.0.2
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@prisma/client"
-  dependency-version: 6.16.3
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@react-three/fiber"
-  dependency-version: 9.3.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: npm-deps
-- dependency-name: better-auth
-  dependency-version: 1.3.24
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: posthog-js
-  dependency-version: 1.268.9
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@lingual/i18n-check"
-  dependency-version: 0.8.8
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@storybook/addon-a11y"
-  dependency-version: 9.1.9
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@storybook/addon-docs"
-  dependency-version: 9.1.9
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@storybook/addon-vitest"
-  dependency-version: 9.1.9
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@storybook/nextjs-vite"
-  dependency-version: 9.1.9
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: "@testing-library/jest-dom"
-  dependency-version: 6.9.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-deps
-- dependency-name: "@types/node"
-  dependency-version: 24.6.1
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-deps
-- dependency-name: "@types/react"
-  dependency-version: 19.1.16
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: cross-env
-  dependency-version: 10.1.0
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-deps
-- dependency-name: eslint-plugin-storybook
-  dependency-version: 9.1.9
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: lefthook
-  dependency-version: 1.13.6
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: prisma
-  dependency-version: 6.16.3
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: storybook
-  dependency-version: 9.1.9
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-- dependency-name: typescript
-  dependency-version: 5.9.3
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-deps
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 10:49:11 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 12:00:43 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
