@@ -9,7 +9,8 @@
 
 ## Latest Projects (In Order)
 - SchoolSaaS
-- [UpDASH](https://www.updash.in)
+- Updash
+- [EnvRelay](https://envrelay.vercel.app)
 - [WallPal](https://wallpal.vercel.app)
 - [BannerDoc](https://bannerdoc.vercel.app)
 - [ZenDB](https://zendb.vercel.app)
