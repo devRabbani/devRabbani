@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on -- Innovative Ideas 
 - 💬 Ask me about -- Fullstack Development ( PWA, React, Firebase, etc ) 
 - 📫 How to reach me: -- dev.golamrabbani@gmail.com
-- ⚡ Fun fact: -- Coffee Addict, SRKian and MSDian
+- ⚡ Fun fact: -- Coffee Addict and a Gamer
 - ➡️ Checkout my Card  [Visiting Card](https://vglink.canwebe.in/p/devrabbani)
 
 ## Latest Projects (In Order)
